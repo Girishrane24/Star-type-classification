@@ -30,11 +30,17 @@ Type -- Red Dwarf, Brown Dwarf, White Dwarf, Main Sequence , Super Giants, Hyper
 TARGET:    Type
 
 from 0 to 5
+
 Red Dwarf - 0
+
 Brown Dwarf - 1
+
 White Dwarf - 2
+
 Main Sequence - 3
+
 Super Giants - 4
+
 Hyper Giants - 5
 
 
